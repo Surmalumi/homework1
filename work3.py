@@ -7,4 +7,3 @@ sum2 = number + number + number
 addition = n + int(sum1) + int(sum2)
 print(f"У вас получилось: ", addition)
 
-#Добавила чтобы программа разрешила pull request.
